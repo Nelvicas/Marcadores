@@ -46,3 +46,8 @@ h1{
     /* background-color: hsl(240, 100%, 50%); */
     box-shadow: 0 0 20px 0  hsla(223, 59%, 31%, 0.8);
 }
+
+.black{
+    background:linear-gradient( rgb(0, 0, 0) 0%, rgb(250, 250, 255) 50%, rgb(0,0,0) 100% );
+    box-shadow:0 0 20px 0 rgba(83,14,14,0.8);
+}
